@@ -7,6 +7,8 @@ Projeto desenvolvido a partir de um layout no Figma para praticar HTML e CSS.
 Criei essa landing page como exercício para treinar a construção de layouts na prática.
 A ideia foi pegar o design no Figma e recriar em código com o objetivo de praticar.
 
+[Ver Projeto](https://karenoliveirajp-stack.github.io/CSS/)
+
 ## Tecnologias usadas
 
 - HTML
